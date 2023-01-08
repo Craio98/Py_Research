@@ -1,1 +1,3 @@
-Data Science soft (to analyze data from Ansys)
+Data Science to analyze data from Ansys Audotyn
+
+-Calculate Critical Energy
